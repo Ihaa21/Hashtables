@@ -1,0 +1,9 @@
+[submodule "libs/profiling"]
+	path = libs/profiling
+	url = https://github.com/Ihaa21/profiling.git
+[submodule "libs/math"]
+	path = libs/math
+	url = https://github.com/Ihaa21/math.git
+[submodule "libs/memory"]
+	path = libs/memory
+	url = https://github.com/Ihaa21/memory.git
